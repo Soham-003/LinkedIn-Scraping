@@ -1,4 +1,4 @@
-## LinkedIn Data Scraper
+# LinkedIn Data Scraper
 This project retrieves LinkedIn user data based on a person's first and last name using two methods:
 
 LinkedIn API (Script 1): Fetches data via LinkedIn's official API.
