@@ -9,7 +9,7 @@ Python 3.x
 Requests, Selenium, BeautifulSoup, Pandas
 ChromeDriver for Selenium
 
-## 3 Setup
+## Setup
 1. Clone the Repository
 bash
 Copy code
@@ -46,6 +46,6 @@ CSV: linkedin_users.csv
 JSON: scraped_data.json
 TXT: linkedin_users.txt
 
-# Notes
+## Notes
 API Token: Replace the ACCESS_TOKEN in Script 1 with your token.
 Web Scraping: Ensure ChromeDriver is properly set up for Selenium.
