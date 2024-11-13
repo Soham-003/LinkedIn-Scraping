@@ -1,15 +1,15 @@
-# LinkedIn Data Scraper
+## LinkedIn Data Scraper
 This project retrieves LinkedIn user data based on a person's first and last name using two methods:
 
 LinkedIn API (Script 1): Fetches data via LinkedIn's official API.
 Web Scraping (Script 2): Uses Selenium and BeautifulSoup to scrape LinkedIn search results.
 
-Technologies Used
+# Technologies Used
 Python 3.x
 Requests, Selenium, BeautifulSoup, Pandas
 ChromeDriver for Selenium
 
-Setup
+# Setup
 1. Clone the Repository
 bash
 Copy code
@@ -27,7 +27,7 @@ Download the appropriate ChromeDriver from here and move it to your project fold
 4. Obtain LinkedIn API Access Token
 Get your LinkedIn API access token from LinkedIn Developer and replace the token in Script 1.
 
-Usage
+# Usage
 1. Run Script 1 (LinkedIn API)
 bash
 Copy code
@@ -46,6 +46,6 @@ CSV: linkedin_users.csv
 JSON: scraped_data.json
 TXT: linkedin_users.txt
 
-Notes
+# Notes
 API Token: Replace the ACCESS_TOKEN in Script 1 with your token.
 Web Scraping: Ensure ChromeDriver is properly set up for Selenium.
